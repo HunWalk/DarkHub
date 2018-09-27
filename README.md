@@ -4,7 +4,9 @@
 git clone https://github.com/HunWalk/DarkHub.git 
 mv /DarkHub /path/to/your/humhub/themes
 ```
-
+# How does it look like?
+![Imgur](https://i.imgur.com/sw9pTqq.png)
+![Imgur](https://i.imgur.com/Rk1TNT1.png)
 
 # Want to contribute?
 
